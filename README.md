@@ -3,3 +3,7 @@ A Heterogeneous GNN for Brain disorder Diagnosis. These codes are for article "A
 
 # Framework
  ![image](https://github.com/Elysium-Lei/Brain-HAN/raw/main/fig/framework.png)
+
+# Results
+![image](https://github.com/Elysium-Lei/Brain-HAN/blob/main/fig/performance%20evaluation.png)
+![image](https://github.com/Elysium-Lei/Brain-HAN/blob/main/fig/ablation.png)
